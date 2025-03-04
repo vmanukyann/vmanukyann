@@ -68,11 +68,6 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 </p>
 
 ---
-
-## 🌟 Featured Projects  
-
-💡 **Coming soon!** Stay tuned for exciting projects.  
-
 <p align="center">
 <i>Let's build something amazing together! 🚀</i>
 </p>
