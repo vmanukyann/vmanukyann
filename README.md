@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-I'm a high school student at <strong>Penn High School</strong> passionate about AI, software development, and robotics.
+I'm a high school student at <strong>Penn High School</strong>.
 </p>
 
 ---
