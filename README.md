@@ -12,7 +12,7 @@ I'm a high school student at <strong>Penn High School</strong>.
 
 ## 🔭 What I'm Working On  
 
-- 🤖 **PennAI** – An AI-powered chatbot designed to assist students and faculty at my high school.  
+- 🤖 **[PennChatbot](http://localhost:3000/)** – An AI-powered chatbot designed to assist students and faculty at my high school.  
 - 🌐 **[vazgenmanukyan.com](https://vazgenmanukyan.com)** – My personal portfolio website showcasing my projects and achievements.  
 
 ---
