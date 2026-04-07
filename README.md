@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-I'm a high school student at <strong>Penn High School</strong>.
+I am a freshman undergraduate at the University of Notre Dame</strong>.
 </p>
 
 ## Let's Connect!  
