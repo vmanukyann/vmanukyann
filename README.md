@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-I am a freshman undergraduate at the University of Notre Dame</strong>.
+I am a freshman majoring in Electrical Engineering at the University of Notre Dame</strong>.
 </p>
 
 ## Let's Connect!  
