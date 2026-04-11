@@ -17,7 +17,7 @@ I'm a graduating senior at **Penn High School** and incoming freshman in **Elect
  
 ---
 
-## ducation
+## Education
 ### University of Notre Dame *(Incoming Fall 2026)*
 **B.S. Electrical Engineering** — College of Engineering, Notre Dame, IN
 - Focus areas: Embedded systems, signal processing, and hardware-software integration
