@@ -84,9 +84,9 @@ I'm always open to conversations about engineering, technology, collaboration op
 
 | Platform | Link |
 |----------|------|
-| 📧 Personal Email | [vazgenmanukyan08@gmail.com](mailto:vazgenmanukyan08@gmail.com) |
-| 💼 LinkedIn | [Vazgen Manukyan](https://www.linkedin.com/in/vazgen-manukyan-a60601318/) |
-| 📸 Instagram | [Vazgen Manukyan](https://www.instagram.com/) |
+| Personal Email | [vazgenmanukyan08@gmail.com](mailto:vazgenmanukyan08@gmail.com) |
+| LinkedIn | [Vazgen Manukyan](https://www.linkedin.com/in/vazgen-manukyan-a60601318/) |
+| Instagram | [Vazgen Manukyan](https://www.instagram.com/) |
 
 </div>
 
