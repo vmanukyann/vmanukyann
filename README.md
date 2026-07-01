@@ -12,8 +12,7 @@
 
 ---
 ## About Me
- 
-I'm a graduating senior at **Penn High School** and incoming freshman in **Electrical Engineering** at the **University of Notre Dame**. 
+Incoming freshman in **Electrical Engineering** at the **University of Notre Dame**. 
  
 ---
 
