@@ -2,7 +2,7 @@
 
 # Vazgen Manukyan
 
-**Electrical Engineering · Penn High School '26 · University of Notre Dame '30**
+**Electrical Engineering · University of Notre Dame '30**
 
 [![Email](https://img.shields.io/badge/Email-vazgenmanukyan08%40gmail.com-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:vazgenmanukyan08@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vazgen%20Manukyan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vazgen-manukyan-a60601318/)
@@ -20,10 +20,6 @@ Incoming freshman in **Electrical Engineering** at the **University of Notre Dam
 ### University of Notre Dame *(Incoming Fall 2026)*
 **B.S. Electrical Engineering** — College of Engineering, Notre Dame, IN
 - Focus areas: Embedded systems, signal processing, and hardware-software integration
-
-### Penn High School *(2022 – 2026)*
-Penn-Harris-Madison School District, Indiana
-- School email: [vmanukyan135@phm.k12.in.us](mailto:vmanukyan135@phm.k12.in.us)
 
 ---
 
@@ -52,18 +48,6 @@ Penn-Harris-Madison School District, Indiana
 </p>
 </div>
 
-
----
-
-## Projects
-
-> *Projects listed below reflect current and recent work. More coming soon.*
-
-### JARVIS *(In Progress)*
-**Tech:** Python · C++   
-A personal AI agentic assiatant powered by Gemma 4 LLM. 
-
----
 
 ## Career Goals
 
